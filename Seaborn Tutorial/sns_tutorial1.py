@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# 
 # 
 # sns_tutorial1.py
 """
